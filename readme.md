@@ -1,1 +1,3 @@
-# This is a Repo to test the git & github systems
+# This is a Repo for intern files
+
+### Here we will push our daily files to the remote repo and learn version control
